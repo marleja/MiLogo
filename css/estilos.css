@@ -1,0 +1,104 @@
+
+body
+{
+	background-image:url(../img/fondo.jpg) ;
+	background-position:top;	
+}
+
+#caja {
+	position: relative;
+	margin: 0 auto; 
+	width: 250px;
+	height: 450px;
+	margin-top: 10px;
+	border-radius: 10px 10px 10px 10px;
+	background-color:#F9EADD;
+	-webkit-box-shadow: -5px -3px 0px 0px rgba(54, 50, 50, 0.51);
+	-moz-box-shadow:    -5px -3px 0px 0px rgba(54, 50, 50, 0.51);
+	box-shadow:         -5px -3px 0px 0px rgba(54, 50, 50, 0.51);
+	
+}
+
+#linea {
+	position: static;
+	margin: 0 auto; 
+	width: 250px;
+	height: 10px;
+	margin-top: 120px;
+	border-radius:10px 10px 0 0 ;
+	background-color:#F00;
+		}	
+
+#circle {
+   
+	position: relative;
+	margin: 0 auto; 
+	width: 150px;
+	height: 150px;
+	margin-top: -188px;
+	background-color: #D62133;
+	border-radius: 50%;
+	border: 10px solid white;
+	
+	
+}
+
+
+#circle1 {
+   
+	position: relative;
+	margin: 0 auto; 
+	width: 190px;
+	height: 190px;
+	margin-top: 100px;
+	background-color: #9DA374;
+	border-radius: 50%;
+	border: 7px solid black;
+}
+#letra
+{
+	position: relative;
+	font-size: 40px;
+	color: #000;
+	margin: 0 auto; 
+	margin-top: -130px;
+	margin-left:1px;
+	font-family: Impact;
+	font-weight: bold;
+}
+#letra1
+{
+	position: relative;
+	font-size: 40px;
+	color: #000;
+	margin: 0 auto; 
+	margin-top: -10px;
+	margin-left:1px;
+	font-weight: bold;
+	font-family: Impact;
+}
+#letra2
+{
+	position: relative;
+	font-size: 11px;
+	color: #000;
+	margin: 0 auto; 
+	margin-top: 1px;
+	margin-left:1px;
+	font-family: Century Gothic;
+}
+#letra3
+{
+	position: relative;
+	font-size: 20px;
+	color: #000;
+	margin: 0 auto; 
+	margin-top: 60px;
+	margin-left:1px;
+	font-weight: bold;
+	font-family: Century Gothic;
+}
+
+	
+
+
